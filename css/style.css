@@ -1,0 +1,59 @@
+﻿body {
+  width: 820px;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  margin: 50px 20px 0px 100px;
+}
+
+section {
+  margin: 0px 20px 0px 100px;
+}
+
+.undline {
+  text-decoration: underline;
+}
+
+.bld {
+  font-weight: bold;
+}
+
+.itlc {
+  font-style: italic;
+}
+
+.centr {
+  text-align: center;
+}
+
+.rght {
+  text-align: right;
+}
+
+h1 {
+  font-size: 30px;
+  margin-bottom: 0;
+}
+
+#avtor {
+  font-size: 20px;
+  margin-top: 5px;
+}
+
+#engine {
+  float: left;
+  width: 275px;
+  height: 170px;
+  margin: 0px 15px 0px 0px;
+}
+
+#mouse {
+  width: 320px;
+  height: 240px;
+}
+
+ul, ol {
+  padding-left: 55px;
+}
